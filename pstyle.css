@@ -1,0 +1,32 @@
+body{
+    background-image:url(IMG_20240617_211019.jpg) ;
+    height: 800px; width: 1000px; 
+    background-size: cover;
+}
+h2{
+    text-align: center;
+color: rgb(239, 242, 61);
+text-shadow: 2px 2px rgb(228, 55, 234);
+
+}
+#log{
+    color: rgb(69, 152, 207);
+background-color: rgb(13, 65, 26);
+width: 120px;
+border-radius: 10px;
+border: 2px ridge pink;
+
+
+}
+input{
+    border: 2px solid palegreen;
+    border-radius: 10px;
+    color: gold;
+}
+#hot{
+    color: red;
+}
+div{
+    color: aqua;
+    
+}
